@@ -5,7 +5,7 @@
   
 ## About Me
 
-I'm a passionate Full-Stack Developer from Bhopal, India, with expertise in:
+I'm a passionate Full-Stack Developer || shopify :
 - 🚀 MERN stack (MongoDB, Express.js, React.js, Node.js)
 - ⚡ Next.js for server-side rendering and static site generation
 - 🎨 UI/UX design with a focus on responsive and intuitive interfaces
